@@ -1,0 +1,15 @@
+{
+  "name": "Iago Security · Central de Segurança",
+  "short_name": "Iago Security",
+  "description": "Crie, transporte e revele mensagens protegidas com continuidade offline.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#071018",
+  "theme_color": "#071018",
+  "lang": "pt-BR",
+  "categories": ["business", "security", "productivity"],
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
